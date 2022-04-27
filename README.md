@@ -8,7 +8,7 @@ Personal:
 - i7-8550u / ArchLinux / XFCE
 - C / Python / Assembly / Verilog
 - Vim / Firefox / Brave / KiCad
-- Jetson TX1 / PYNQ-Z1 / PYNQSDR / SqueakyBoard / xc7k325t / ep4ce15 / ice40hx1k
+- Thinkpad X200 / PYNQ-Z1 / PYNQSDR / SqueakyBoard / xc7k325t / ep4ce15 / ice40hx1k
 - Working on FPGA-based RISC-V hw design & osdev
 - Interested in SDR / amateur radio but don't have a license yet
 
