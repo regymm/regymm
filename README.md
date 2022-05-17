@@ -1,14 +1,13 @@
 ### You see here a physics student goofing around. 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=regymm&count_private=true&show_icons=true)
-
 #### Check out my [homepage](https://regymm.github.io) and [Telegram channel](https://t.me/xtalhart) !
 
 Personal:
 - i7-8550u / ArchLinux / XFCE
+- Thinkpad X200 / Parabola / Libreboot
 - C / Python / Assembly / Verilog
 - Vim / Firefox / Brave / KiCad
-- Thinkpad X200 / PYNQ-Z1 / PYNQSDR / SqueakyBoard / xc7k325t / ep4ce15 / ice40hx1k
+- PYNQ-Z1 / PYNQSDR / SqueakyBoard / xc7k325t / ep4ce15 / ice40hx1k and much more!
 - Working on FPGA-based RISC-V hw design & osdev
 - Interested in SDR / amateur radio but don't have a license yet
 
