@@ -7,7 +7,7 @@ Personal:
 - Thinkpad X200 / Parabola / Libreboot
 - C / Python / Assembly / Verilog
 - Vim / Firefox / Brave / KiCad
-- PYNQ-Z1 / PYNQSDR / SqueakyBoard / xc7k325t / ep4ce15 / ice40hx1k and much more!
+- PYNQ-Z1 / PYNQSDR / SqueakyBoard / xc7k325t / xc7vx415t / xcku035 / xc7a50t / ep4ce15 / lfe5u-45f / lfe5u-25f / ice40hx1k and much more!
 - Working on FPGA-based RISC-V hw design & osdev
 - Interested in SDR / amateur radio but don't have a license yet
 
