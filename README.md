@@ -3,11 +3,13 @@
 #### Check out my [homepage](https://regymm.github.io) and [Telegram channel](https://t.me/xtalhart) !
 
 Personal:
+- Ryzen 3700x / ArchLinux / Cinnamon
 - i7-8550u / ArchLinux / XFCE
-- Thinkpad X200 / Parabola / Libreboot
+- Thinkpad X200 / Xubuntu / Libreboot
 - C / Python / Assembly / Verilog
-- Vim / Firefox / Brave / KiCad
-- PYNQ-Z1 / PYNQSDR / SqueakyBoard / xc7k325t / xc7vx415t / xcku035 / xc7a50t / ep4ce15 / lfe5u-45f / lfe5u-25f / ice40hx1k and much more!
+- Vim / Firefox / KiCad
+- PYNQ-Z1 / PYNQSDR / SqueakyBoard / Nexys Video / ebaz4205
+- xc7k325t / xcku035 / xc7a50t / ep4ce15 / lfe5u-45f / lfe5u-25f / ice40hx1k and much more!
 - Working on FPGA-based RISC-V hw design & osdev
 - Interested in SDR / amateur radio but don't have a license yet
 
