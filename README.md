@@ -1,5 +1,3 @@
-### You see here a physics student goofing around. 
-
 #### Check out my [homepage](https://regymm.github.io) and [Telegram channel](https://t.me/xtalhart) !
 
 Personal:
