@@ -3,7 +3,8 @@
 Personal:
 - C / Python / Assembly / Verilog
 - Vim / Firefox / KiCad
-- Working on FPGA-based RISC-V hw design & osdev
+- Open source FPGA toolchains
+- RISC-V hw design & osdev
 - Interested in SDR / amateur radio
 
 <!--
